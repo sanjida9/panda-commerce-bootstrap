@@ -1,0 +1,13 @@
+.info-bg {
+  background-color: #fceae8;
+}
+.catagories img {
+  width: 100px;
+}
+.my-btn {
+  color: white;
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
